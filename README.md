@@ -38,8 +38,12 @@ v<img width="1899" height="802" alt="image" src="https://github.com/user-attachm
 
 ---
 
+
 ## 📦 How to Run
 1. Clone the repository  
    ```bash
    git clone https://github.com/Rohitginnore/Netflix-Clone.git
+
+
+ LiveDemo :- [https://rohitginnore.github.io/Netflix-Clone/]
 
